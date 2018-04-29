@@ -30,3 +30,12 @@ print(float(int(352.1)))
 # 变量
 xiaoming = "XIAOMING"
 print(xiaoming)
+a = 123
+a = 'abc'
+print(a)
+# 确定变量类型  type（）
+print(type('HelloWorld'))
+b = 100
+print(type(b))
+c = 3.0
+print(type(c))
