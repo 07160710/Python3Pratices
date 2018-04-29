@@ -64,3 +64,9 @@ print(x >= y)
 print(x <= y)
 print(x + 10 >= y)
 print(x +10 > y)
+# 字符串拼接
+print('hello'+' '+'world')
+habit = 'Python是一门很有用的编程语言\n我想学好它'
+print(habit)
+print('-----------')
+print(len(habit))
