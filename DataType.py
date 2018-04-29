@@ -39,3 +39,28 @@ b = 100
 print(type(b))
 c = 3.0
 print(type(c))
+# 交互模式
+x = 10
+y = 5
+print(x + y)
+print(x - y)
+print(x * y)
+print(x / y)
+# **幂运算
+print(x ** y)
+print(9 // 2)
+print(9.0 // 2.0)
+
+print('-----------------------------')
+a1 = 2 ** 32/1024/1024/1024
+print(a1)
+a2 =  2 ** 64/1024/1024/1024
+print(a2)
+print(a1 == a2)
+print(a1 != a2)
+print(x > y)
+print(x < y)
+print(x >= y)
+print(x <= y)
+print(x + 10 >= y)
+print(x +10 > y)
